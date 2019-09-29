@@ -1,0 +1,37 @@
+﻿{
+  "request_id": {
+    "game_id": 3,
+    "tick": 10,
+    "car_id": 1
+  },
+  "cars": [
+    {
+      "id": 1,
+      "pos": {"x": 20, "y": 40},
+      "life": 100,
+      "speed": 0,
+      "direction": ">",
+      "next_command": "+",
+      "transported": 0,
+      "passenger_id": 1
+    }
+  ],
+  "pedestrians": [
+    {
+      "id": 1,
+      "pos": {"x": 15, "y": 40},
+      "speed": 1,
+      "direction": ">",
+      "next_command": "+"
+    }
+  ],
+  "passengers": [
+    {
+      "id": 1,
+      "pos": {"x": 19, "y": 40},
+      "dest_pos": {"x": 9, "y": 50},
+      "car_id": 1
+    }
+  ],
+  "messages": ["valami", "megint valami"]
+}

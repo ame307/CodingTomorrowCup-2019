@@ -1,0 +1,13 @@
+﻿public enum Command
+{
+    NO_OP,
+    ACCELERATION,
+    DECELERATION,
+    CAR_INDEX_LEFT,
+    CAR_INDEX_RIGHT,
+    CLEAR,
+    FULL_THROTTLE,
+    EMERGENCY_BRAKE,
+    GO_LEFT,
+    GO_RIGHT
+}
