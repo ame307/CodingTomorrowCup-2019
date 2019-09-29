@@ -16,8 +16,8 @@ After the first qualifier we did a lot of refactoring so the code in this state 
 
 Gajdár Krisztián</br>
 Sebő Andor</br>
-Répás Kristóf</br>  
-Lázár Dávid</br>
+Répás Kristóf</br>
+Lázár Dávid
 
 ## Links
 
