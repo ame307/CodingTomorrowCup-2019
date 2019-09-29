@@ -14,12 +14,12 @@ After the first qualifier we did a lot of refactoring so the code in this state 
 
 ## Team members
 
-Gajdár Krisztián
-Sebő Andor
-Répás Kristóf  
-Lázár Dávid
+Gajdár Krisztián</br>
+Sebő Andor</br>
+Répás Kristóf</br>  
+Lázár Dávid</br>
 
 ## Links
 
-Coding Tomorrow Cup - https://www.codingcup.hu/
-Original repository - https://github.com/ame307/Coding-Tomorrow-Cup
+Coding Tomorrow Cup - https://www.codingcup.hu/</br>
+Original repository - https://github.com/ame307/Coding-Tomorrow-Cup</br>
